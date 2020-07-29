@@ -1,0 +1,22 @@
+{
+  "name": "aspnetcore-course",
+  "version": "1.0.0",
+  "description": "aspnetcore-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardorchard/aspnetcore-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardorchard/aspnetcore-course/issues"
+  },
+  "homepage": "https://github.com/richardorchard/aspnetcore-course#readme",
+  "dependencies": {
+    "datatables.net-bs4": "^1.10.21"
+  }
+}
