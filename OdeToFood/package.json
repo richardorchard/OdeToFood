@@ -1,5 +1,5 @@
 {
-  "name": "aspnetcore-course",
+  "name": "OdeToFood",
   "version": "1.0.0",
   "description": "aspnetcore-course",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richardorchard/aspnetcore-course.git"
+    "url": "git+https://github.com/richardorchard/OdeToFood.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richardorchard/aspnetcore-course/issues"
+    "url": "https://github.com/richardorchard/OdeToFood/issues"
   },
   "homepage": "https://github.com/richardorchard/aspnetcore-course#readme",
   "dependencies": {

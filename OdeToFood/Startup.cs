@@ -49,10 +49,12 @@ namespace OdeToFood
             }
 
             app.UseStaticFiles();
-
+            app.UseNodeModules();
             app.UseRouting();
 
             app.UseAuthorization();
+
+
 
             app.UseEndpoints(endpoints =>
             {
