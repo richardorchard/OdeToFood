@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/richardorchard/aspnetcore-course#readme",
   "dependencies": {
-    "datatables.net-bs4": "^1.10.21"
+    "datatables.net-bs4": "^1.13.4"
   }
 }
